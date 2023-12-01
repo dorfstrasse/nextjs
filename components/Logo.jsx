@@ -4,7 +4,7 @@ import Image from 'next/image';
 const Logo = () => {
   return (
     <Link href='/'>
-      <Image src=''/>
+      <img src='/VANDER-b.png' height={20} priority alt=''/>
     </Link>
   )
 }
